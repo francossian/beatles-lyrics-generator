@@ -11,6 +11,4 @@ El final de cada renglón se determina por el token especial "FIN", que tiene un
 
 Las probabilidades de los diccionarios se calculan en base a las frecuencias observadas en las letras de The Beatles.
 
-Por ejemplo, si después de las palabras "the dog" se observaron las palabras "is" y "has", 8 y 2 veces respectivamente,
-entonces la probabilidad de "is" dado que las dos palabras anteriores son "the dog" será de 0.8 (8 / (8+2)). Esta idea, tan simple como suena, es todo 
-lo que hay que entender sobre cómo funciona este modelo.
+Por ejemplo, si después de las palabras "the dog" se observaron las palabras "is" y "has", 8 y 2 veces respectivamente, entonces la probabilidad de "is" dado que las dos palabras anteriores son "the dog" será de 0.8 (8 / (8+2)). Esta idea, tan simple como suena, resume toda la operatoria de este modelo.
