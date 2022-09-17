@@ -1,4 +1,4 @@
-# beatles-lyrics-generator
+# generador-letras-beatles
 Text generator using Markov Chains based on observed probabilities in The Beatles' lyrics.
 Generador de letras de The Beatles en base a Cadenas de Markov
 
